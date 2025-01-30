@@ -1,0 +1,28 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_71_14162)">
+<rect width="72" height="72" rx="20" fill="url(#paint0_linear_71_14162)"/>
+<g opacity="0.24" filter="url(#filter0_f_71_14162)">
+<rect x="23" y="45" width="26" height="17" rx="8" fill="#8F4BF6"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.5885 49.4157L33.1537 48.8505C33.9086 48.0956 34.9325 47.6715 36 47.6715C37.0676 47.6715 38.0915 48.0956 38.8464 48.8505L39.4116 49.4158C40.43 50.4341 41.8113 51.0063 43.2515 51.0063H43.9084C46.9076 51.0063 49.3389 48.5749 49.3389 45.5758C49.3389 43.7601 48.4315 42.0645 46.9207 41.0573C45.221 39.9242 43.8051 38.4147 42.7828 36.6461L41.2489 33.9925C40.1777 32.1393 38.1997 30.9979 36.0592 30.9979C33.9536 30.9979 32.0025 32.1027 30.9192 33.9082L29.2022 36.7698C28.1889 38.4587 26.8131 39.9014 25.1744 40.994L25.0793 41.0573C23.5686 42.0645 22.6611 43.7601 22.6611 45.5758C22.6611 48.5749 25.0924 51.0063 28.0916 51.0063H28.7486C30.1888 51.0063 31.5701 50.4341 32.5885 49.4157Z" fill="#8F4BF6" stroke="#8F4BF6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="23.4948" cy="31.8316" r="2.50104" fill="#8F4BF6" stroke="#8F4BF6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="48.5052" cy="31.8316" r="2.50104" fill="#8F4BF6" stroke="#8F4BF6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="30.6407" cy="23.4948" r="2.50104" fill="#8F4BF6" stroke="#8F4BF6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="41.3594" cy="23.4948" r="2.50104" fill="#8F4BF6" stroke="#8F4BF6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<rect x="0.5" y="0.5" width="71" height="71" rx="19.5" stroke="#E5E4F9"/>
+<defs>
+<filter id="filter0_f_71_14162" x="9" y="31" width="54" height="45" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7" result="effect1_foregroundBlur_71_14162"/>
+</filter>
+<linearGradient id="paint0_linear_71_14162" x1="36" y1="0" x2="36" y2="72" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E5E4F9"/>
+<stop offset="1" stop-color="#E5E4F9" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_71_14162">
+<rect width="72" height="72" rx="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>
